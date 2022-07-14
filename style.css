@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.content {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.clock {
+    font-size: 4em;
+}
+
+.date-time {
+    font-size: 2em;
+}
